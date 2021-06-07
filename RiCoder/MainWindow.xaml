@@ -1,0 +1,47 @@
+﻿<Window x:Class="RiCoder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RiCoder"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="678" Width="1000">
+    <Grid>
+        <StackPanel HorizontalAlignment="Left" VerticalAlignment="Top" Height="45" Orientation="Horizontal">
+            <Button Content="  Open  " HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Height="45" Width="104" Click="Button_Click"></Button>
+            <Button Content="  Save  " HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Height="45" Width="104"></Button>
+        </StackPanel>
+        
+        <Grid Margin="0,45,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="320*"/>
+                <ColumnDefinition Width="320*"/>
+                <ColumnDefinition Width="320*"/>
+            </Grid.ColumnDefinitions>
+            <RichTextBox x:Name="richTextBox" TextChanged="richTextBox_TextChanged" Background="#FFC7C7C7" Grid.Column="0">
+                <RichTextBox.Resources>
+                    <Style TargetType="{x:Type Paragraph}">
+                        <Setter Property="Margin" Value="0"/>
+                    </Style>
+                </RichTextBox.Resources>
+            </RichTextBox>
+            <RichTextBox x:Name="richTextBox1" Background="#FFFFB7B7" Grid.Column="1">
+                <RichTextBox.Resources>
+                    <Style TargetType="{x:Type Paragraph}">
+                        <Setter Property="Margin" Value="0"/>
+                    </Style>
+                </RichTextBox.Resources>
+            </RichTextBox>
+            <RichTextBox x:Name="richTextBox2" Background="#FFB4EAA5" Grid.Column="2">
+                <RichTextBox.Resources>
+                    <Style TargetType="{x:Type Paragraph}">
+                        <Setter Property="Margin" Value="0"/>
+                    </Style>
+                </RichTextBox.Resources>
+            </RichTextBox>
+        </Grid>
+       
+
+
+    </Grid>
+</Window>

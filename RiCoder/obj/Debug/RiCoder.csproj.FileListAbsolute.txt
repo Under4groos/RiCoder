@@ -1,0 +1,15 @@
+C:\Users\UnderKo\source\repos\RiCoder\RiCoder\bin\Debug\RiCoder.exe.config
+C:\Users\UnderKo\source\repos\RiCoder\RiCoder\bin\Debug\RiCoder.exe
+C:\Users\UnderKo\source\repos\RiCoder\RiCoder\bin\Debug\RiCoder.pdb
+C:\Users\UnderKo\source\repos\RiCoder\RiCoder\obj\Debug\RiCoder.csproj.AssemblyReference.cache
+C:\Users\UnderKo\source\repos\RiCoder\RiCoder\obj\Debug\MainWindow.g.cs
+C:\Users\UnderKo\source\repos\RiCoder\RiCoder\obj\Debug\App.g.cs
+C:\Users\UnderKo\source\repos\RiCoder\RiCoder\obj\Debug\RiCoder_MarkupCompile.cache
+C:\Users\UnderKo\source\repos\RiCoder\RiCoder\obj\Debug\RiCoder_MarkupCompile.lref
+C:\Users\UnderKo\source\repos\RiCoder\RiCoder\obj\Debug\MainWindow.baml
+C:\Users\UnderKo\source\repos\RiCoder\RiCoder\obj\Debug\RiCoder.g.resources
+C:\Users\UnderKo\source\repos\RiCoder\RiCoder\obj\Debug\RiCoder.Properties.Resources.resources
+C:\Users\UnderKo\source\repos\RiCoder\RiCoder\obj\Debug\RiCoder.csproj.GenerateResource.cache
+C:\Users\UnderKo\source\repos\RiCoder\RiCoder\obj\Debug\RiCoder.csproj.CoreCompileInputs.cache
+C:\Users\UnderKo\source\repos\RiCoder\RiCoder\obj\Debug\RiCoder.exe
+C:\Users\UnderKo\source\repos\RiCoder\RiCoder\obj\Debug\RiCoder.pdb
